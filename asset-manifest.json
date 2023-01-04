@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/eveven7/cart.git/static/css/main.08ac183c.css",
+    "main.js": "/eveven7/cart.git/static/js/main.4934db5a.js",
+    "static/js/787.36fb1f6f.chunk.js": "/eveven7/cart.git/static/js/787.36fb1f6f.chunk.js",
+    "static/media/img2.jpg": "/eveven7/cart.git/static/media/img2.75688234d7f0a0267448.jpg",
+    "static/media/img5.png": "/eveven7/cart.git/static/media/img5.6735a4d8de5172bd5d91.png",
+    "static/media/img4.png": "/eveven7/cart.git/static/media/img4.0b7bdff69de327b71416.png",
+    "static/media/img3.jpg": "/eveven7/cart.git/static/media/img3.7ecf0c96b15f9d8221a1.jpg",
+    "static/media/bag.png": "/eveven7/cart.git/static/media/bag.8a965456aa4f33e30ddc.png",
+    "static/media/img6.png": "/eveven7/cart.git/static/media/img6.ddb1fc184be3b5cb67a2.png",
+    "static/media/img1.jpg": "/eveven7/cart.git/static/media/img1.010f81dfba0f8a9a8732.jpg",
+    "static/media/logo1.svg": "/eveven7/cart.git/static/media/logo1.149207c23df70a6b9c032dc801e653e7.svg",
+    "static/media/credit.svg": "/eveven7/cart.git/static/media/credit.c64ed60b495440812c62326db88ed3b5.svg",
+    "static/media/loading.svg": "/eveven7/cart.git/static/media/loading.f21426d4462a054ab4ac09b85846a940.svg",
+    "static/media/emptybasket.svg": "/eveven7/cart.git/static/media/emptybasket.23b0144a8da3fec5c0ee34cf85c8124e.svg",
+    "static/media/basket.svg": "/eveven7/cart.git/static/media/basket.75ecbf0aba2ea59d1fe6e9d7e46b7af6.svg",
+    "index.html": "/eveven7/cart.git/index.html",
+    "main.08ac183c.css.map": "/eveven7/cart.git/static/css/main.08ac183c.css.map",
+    "main.4934db5a.js.map": "/eveven7/cart.git/static/js/main.4934db5a.js.map",
+    "787.36fb1f6f.chunk.js.map": "/eveven7/cart.git/static/js/787.36fb1f6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ac183c.css",
+    "static/js/main.4934db5a.js"
+  ]
+}
